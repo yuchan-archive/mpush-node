@@ -1,0 +1,15 @@
+{
+  "name": "ripush",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yusuke Ohashi <github@junkpiano.me>",
+  "license": "MIT",
+  "dependencies": {
+    "apn": "^1.7.4",
+    "express": "^4.13.3"
+  }
+}
